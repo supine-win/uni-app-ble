@@ -1,0 +1,22 @@
+{
+  "name": "uni-app-ble",
+  "version": "1.0.0",
+  "description": "uni-app BLE蓝牙SDK, 支持微信小程序、支付宝小程序 from wx-ant-ble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhaodahai",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supine-win/uni-app-ble.git"
+  },
+  "keywords": [
+    "ble", "bluetooth", "蓝牙", "小程序", "uni-app", "支付宝小程序", "微信小程序"
+  ],
+  "bugs": {
+    "url": "https://github.com/supine-win/uni-app-ble/issues"
+  },
+  "homepage": "https://github.com/supine-win/uni-app-ble#readme"
+}
